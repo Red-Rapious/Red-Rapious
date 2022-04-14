@@ -1,7 +1,7 @@
 ### Red Rapious' profile
 
-- I'm currently working on my TIPE project about Computer Vision, ![take a look](https://github.com/Red-Rapious/Car-Computer-Vision)!
-- You can also check out ![my biggest project yet](https://github.com/Red-Rapious/MinecraftCloneOpenGL), an implementation of Minecraft using my own, handmade, graphical engine
+- I'm currently working on my TIPE project about Computer Vision, [take a look](https://github.com/Red-Rapious/Car-Computer-Vision)!
+- You can also check out [my biggest project yet](https://github.com/Red-Rapious/MinecraftCloneOpenGL), an implementation of Minecraft using my own, handmade, graphical engine
 
 <!--
 **Red-Rapious/Red-Rapious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
