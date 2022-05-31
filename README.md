@@ -9,5 +9,5 @@
   <a href="https://github.com/Red-Rapious/MinecraftCloneOpenGL"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="https://github.com/Red-Rapious/Car-Computer-Vision"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://github.com/Red-Rapious/Elements-LaTeX"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"></a>
-  <a href="https://github.com/Red-Rapious/Elements-LaTeX"><img src="https://img.shields.io/badge/OCaml-orange?style=for-the-badge&logo=ocaml&logoColor=white"></a>
+  <a href="https://github.com/Red-Rapious/OCaml-Playground"><img src="https://img.shields.io/badge/OCaml-orange?style=for-the-badge&logo=ocaml&logoColor=white"></a>
 </p>
