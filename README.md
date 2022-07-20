@@ -17,12 +17,12 @@
 
 
 #### Previously using:
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white">
+<a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white"></a>
 <a href="https://github.com/Red-Rapious/MinecraftCloneOpenGL"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<img src="https://img.shields.io/badge/opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
-<img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=oracle&logoColor=orange">
+<a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white"></a>
+<a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=oracle&logoColor=orange"></a>
 
 #### Currently learning:
-<img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black">
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+<a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black"></a>
+<a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+<a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"></a>
