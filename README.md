@@ -1,6 +1,6 @@
 ## Red Rapious's profile
 
-Hi, I'm an engineering student from France, working since numerous years on software personnal projects.
+Hi, I'm an engineering student from France, working since numerous years on software personal projects.
 
 ### Current projects
 - I'm currently working on my TIPE project about Computer Vision, [take a look](https://github.com/Red-Rapious/Car-Computer-Vision)! *(in French only)*
