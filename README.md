@@ -1,11 +1,14 @@
 ## Red Rapious's profile
 
+Hi, I'm an engineering student from France, working since numerous years on software personnal projects.
+
 ### Current projects
-- I'm currently working on my TIPE project about Computer Vision, [take a look](https://github.com/Red-Rapious/Car-Computer-Vision)!
+- I'm currently working on my TIPE project about Computer Vision, [take a look](https://github.com/Red-Rapious/Car-Computer-Vision)! *(in French only)*
 - Looking for a great, open-source LaTeX editor? Take a look at [Elements LaTeX](https://github.com/Red-Rapious/Elements-LaTeX)!, and send me some feedback!
 
 ### Previous projects
 - You can also check out [my biggest project yet](https://github.com/Red-Rapious/MinecraftCloneOpenGL), an implementation of Minecraft using my own, handmade, graphical engine
+- I created [an animated CFD simulator](https://github.com/Red-Rapious/Navier-Stokes-CFD) using the Navier-Stokes equations, you can easily try to run it with `Python` and `Matplotlib` *(in French only)*
 
 ### Languages and tools:
 #### Currently using:
@@ -28,3 +31,5 @@
 <a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black"></a>
 <a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 <a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"></a>
+
+I don't try to learn as many languages as possible, but rather use them as tools to learn new things.
