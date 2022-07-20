@@ -11,6 +11,8 @@ Hi, I'm an engineering student from France, working since numerous years on soft
 - I created [an animated CFD simulator](https://github.com/Red-Rapious/Navier-Stokes-CFD) using the Navier-Stokes equations, you can easily try to run it with `Python` and `Matplotlib` *(in French only)*
 
 ### Languages and tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-rapious&layout=compact)
+
 #### Currently using:
 <a href="https://github.com/Red-Rapious/Car-Computer-Vision"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://github.com/Red-Rapious/Car-Computer-Vision"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"></a>
