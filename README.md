@@ -29,9 +29,10 @@ Hi, I'm an engineering student from France, working since numerous years on soft
 <a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
 
+<!---
 #### Currently learning:
 <a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black"></a>
 <a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 <a href="https://github.com/Red-Rapious/Red-Rapious"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"></a>
-
 I don't try to learn as many languages as possible, but rather use them as tools to learn new things.
+-->
