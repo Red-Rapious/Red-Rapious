@@ -3,11 +3,11 @@
 Hi, I'm an engineering student from France, working since numerous years on software personal projects.
 
 ### Current projects
-- I'm currently working on my TIPE project about Computer Vision, [take a look](https://github.com/Red-Rapious/Car-Computer-Vision). *(in French only)*
-- I build [Elements LaTeX](https://github.com/Red-Rapious/Elements-LaTeX), an Electron-based $\LaTeX$ editor.
+- I'm currently working on my TIPE project about Computer Vision, [take a look](https://github.com/Red-Rapious/Car-Computer-Vision)! *(in French only)*
+- Looking for a great, open-source LaTeX editor? Take a look at [Elements LaTeX](https://github.com/Red-Rapious/Elements-LaTeX)!, and send me some feedback!
 
 ### Previous projects
-- You can also check out [my biggest project yet](https://github.com/Red-Rapious/MinecraftCloneOpenGL), an implementation of Minecraft using my own, handmade, graphics engine.
+- You can also check out [my biggest project yet](https://github.com/Red-Rapious/MinecraftCloneOpenGL), an implementation of Minecraft using my own, handmade, graphical engine
 - I created [an animated CFD simulator](https://github.com/Red-Rapious/Navier-Stokes-CFD) using the Navier-Stokes equations, you can easily try to run it with `Python` and `Matplotlib` *(in French only)*
 
 ### Languages and tools:
