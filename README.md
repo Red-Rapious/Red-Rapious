@@ -4,7 +4,7 @@ Hi, I'm an engineering student from France, working since numerous years on soft
 
 ### Current projects
 - I'm currently working on my TIPE project about Computer Vision, [take a look](https://github.com/Red-Rapious/Car-Computer-Vision)! *(in French only)*
-- I build [Elements LaTeX](https://github.com/Red-Rapious/Elements-LaTeX)!, an Electron-based $\LaTeX$ editor.
+- I build [Elements LaTeX](https://github.com/Red-Rapious/Elements-LaTeX)!, an Electron-based LaTeX editor.
 
 ### Previous projects
 - You can also check out [my biggest project yet](https://github.com/Red-Rapious/MinecraftCloneOpenGL), an implementation of Minecraft using my own, handmade, graphics engine
