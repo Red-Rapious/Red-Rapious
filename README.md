@@ -7,8 +7,16 @@ In my personnal projects, I explored diverse topics including **Deep Learning**,
 ## Latest projects
 This summer, I've been working on **Deep Learning**:
 - [**MLP-Digits-Recognition**:](https://github.com/Red-Rapious/MLP-Digits-Recognition) I started by implementing a Multilayer Perceptron from scratch in Rust, to recognize handwritten digits from the MNIST dataset.
+
+![Digits Recognition](assets/digits-mlp.png)
+
 - [**Genetic-Birds-Simulator**:](https://github.com/Red-Rapious/Genetic-Birds-Simulator) I explored Genetic Algorithms with this simple simulation of birds evolution.
+
+![Genetic Birds](assets/genetic-birds.png)
+
 - [**Genetic-Snake-AI**:](https://github.com/Red-Rapious/Genetic-Snake-AI) I adapted this learning approach to an Artificial Intelligence designed to beat the classic game of Snake.
+
+![Snake AI](assets/snake-ai.png)
 
 ## Previous projects
 - I built [Elements LaTeX](https://github.com/Red-Rapious/Elements-LaTeX), an Electron-based LaTeX editor.
