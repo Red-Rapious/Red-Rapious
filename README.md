@@ -12,11 +12,11 @@ This summer, I've been working on **Deep Learning**:
 
 - [**Genetic-Birds-Simulator**:](https://github.com/Red-Rapious/Genetic-Birds-Simulator) I explored Genetic Algorithms with this simple simulation of birds evolution.
 
-![Genetic Birds](assets/genetic-birds.png)
+<!--![Genetic Birds](assets/genetic-birds.png)-->
 
 - [**Genetic-Snake-AI**:](https://github.com/Red-Rapious/Genetic-Snake-AI) I adapted this learning approach to an Artificial Intelligence designed to beat the classic game of Snake.
 
-![Snake AI](assets/snake-ai.png)
+<!--![Snake AI](assets/snake-ai.png)-->
 
 ## Previous projects
 - I built [Elements LaTeX](https://github.com/Red-Rapious/Elements-LaTeX), an Electron-based LaTeX editor.
