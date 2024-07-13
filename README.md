@@ -1,22 +1,16 @@
 # [Red Rapious's profile](https://red-rapious.github.io)
 
-Hi, I'm a student from France, studying **Computer Science** and **Mathematics**.
+Hi, I'm a student from France, studying Computer Science and Mathematics at ENS Ulm.
 
-In my personnal projects, I explored diverse topics including **Deep Learning**, **Computer Graphics** and **Board games AIs**.
+In my personnal projects, I explored diverse topics including **Deep Learning** and **Computer Graphics**.
 
 ## Latest projects
-This summer, I've been working on **Deep Learning**:
+Last summer, I've worked on **Deep Learning**:
 - [**MLP-Digits-Recognition**:](https://github.com/Red-Rapious/MLP-Digits-Recognition) I started by implementing a Multilayer Perceptron from scratch in Rust, to recognize handwritten digits from the MNIST dataset.
-
-![Digits Recognition](assets/digits-mlp.png)
 
 - [**Genetic-Birds-Simulator**:](https://github.com/Red-Rapious/Genetic-Birds-Simulator) I explored Genetic Algorithms with this simple simulation of birds evolution.
 
-<!--![Genetic Birds](assets/genetic-birds.png)-->
-
 - [**Genetic-Snake-AI**:](https://github.com/Red-Rapious/Genetic-Snake-AI) I adapted this learning approach to an Artificial Intelligence designed to beat the classic game of Snake.
-
-<!--![Snake AI](assets/snake-ai.png)-->
 
 ## Previous projects
 - I built [Elements LaTeX](https://github.com/Red-Rapious/Elements-LaTeX), an Electron-based LaTeX editor.
